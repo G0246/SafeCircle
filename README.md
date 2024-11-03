@@ -1,5 +1,5 @@
 # SafeCircle
-SafeCircle is a powerful platform designed to empower users to host and manage their own nodes securely and efficiently.
+SafeCircle is a powerful platform designed to help users to host and manage their own nodes securely and efficiently.
 
 ## Key Features:
 - Easy Setup: Streamlined installation process for quick deployment.

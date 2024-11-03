@@ -32,7 +32,7 @@ docker-compose.override.yml
 *.sublime-project
 *.sublime-workspace
 
-# Gen file
+# Generated files
 .DS_Store
 Thumbs.db
 
